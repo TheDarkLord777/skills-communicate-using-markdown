@@ -1,7 +1,9 @@
 # Daily Learning
 
 ## Morning Planning
-Bu yerda sizning ertalabgi rejalaringizni yozishingiz mumkin.
+
+- [ ] Check out the [GitHub blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
 
 ## Review
-Bu yerda kunning oxirgi ko‘rib chiqilishi yoki natijalarni yozishingiz mumkin.
